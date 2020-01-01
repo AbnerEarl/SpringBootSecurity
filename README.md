@@ -1,0 +1,2 @@
+# SpringBootSecurity
+SpringBoot+SpringSecurity集成权限管理快速打造企业级声明式安全认证授权解决方案之SpringBoot+SpringSecurity+mybatis+mysql。
